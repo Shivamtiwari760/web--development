@@ -1,2 +1,2 @@
-# web--development
-projects related web development
+# Coding questions self practice
+practice questions
